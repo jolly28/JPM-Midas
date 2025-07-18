@@ -1,0 +1,11 @@
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/TaskTwoTests.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/BalanceQuerier.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/RestTemplateConfig.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/TaskThreeTests.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/KafkaConsumer.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/UserPopulator.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/FileLoader.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/TaskFourTests.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/KafkaProducer.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/TaskOneTests.java
+/root/test/forage-midas/src/test/java/com/jpmc/midascore/TaskFiveTests.java
