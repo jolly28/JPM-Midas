@@ -1,2 +1,2 @@
 # Midas
-Project repo for the JPMC Advanced Software Engineering Forage program
+Certfication Project for the JPMC Advanced Software Engineering Forage program
